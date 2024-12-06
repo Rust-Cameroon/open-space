@@ -3,11 +3,11 @@ Submit your rust related open source projects so we can collaborate and make it 
 
 Our goal in the osscameroon community is to build the opensource solutions our country needs. This Repository is a crowdsourced collection of project ideas submitted by the community and that might require our amazing pool of contributors to work on.
 
-Checkout the [project ideas]() submitted by the community.
+Checkout the [project ideas](https://github.com/Rust-Cameroon/open-space/issues) submitted by the community.
 
 ### You have an idea
 
-Feel free to submit a project idea on this [repository]().
+Feel free to submit a project idea on this [repository](https://github.com/Rust-Cameroon/open-space/issues).
 
 Once you have submited your idea, the community will be notified and you will be invited to describe your idea clearly to us.
 
@@ -24,4 +24,4 @@ The projects have a set of labels that indicates the status and or complexity of
 
 Depending on the status of the project you may decide to join a project that is currently under development, pick up a project that has not started yet or grab a stalled project to make it move forward.
 
-You have decided wich project to work on ? Feel free, to drop a comment on the issue to let the community know what you intend to do with that project and join the [Discord Server]() to get faster feedback.
+You have decided wich project to work on ? Feel free, to drop a comment on the issue to let the community know what you intend to do with that project and join the [Discord Server](https://discord.gg/Y5qqazcR7c) to get faster feedback.
