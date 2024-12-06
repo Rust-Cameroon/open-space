@@ -1,0 +1,14 @@
+[
+
+    {
+      "description": "Company ratings and salaries in Cameroon",
+      "name": "Jobsika",
+      "html_url": "https://jobsika.cm"
+    },
+    
+    {
+      "description": "Get information about programming languages through REST API or GraphQL.",
+      "name": "ProLang-Api",
+      "html_url": "https://www.prolanghistory.com"
+    }
+]
