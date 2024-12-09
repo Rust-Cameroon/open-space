@@ -1,0 +1,15 @@
+on:
+  issues:
+    types: [ opened ]
+
+jobs:
+
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - uses: EddieHubCommunity/gh-action-community/src/welcome@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: '<h3>It''s great having you contribute to this project</h3> Welcome to the community :nerd_face:, we will carefully review your project idea and get back to you.'
+          footer: 'If you would like to follow our community''s work you should join us on our <a href="https://discord.gg/Y5qqazcR7c">Discord</a> Server, we help and encourage each other to contribute to open source.'
