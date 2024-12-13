@@ -1,7 +1,7 @@
 # open-space
 Submit your rust related open source projects so we can collaborate and make it a success together
 
-Our goal in the osscameroon community is to build the opensource solutions our country needs. This Repository is a crowdsourced collection of project ideas submitted by the community and that might require our amazing pool of contributors to work on.
+Our goal in the Rust-Cameroon community is to build the opensource solutions our country needs and beyond. This Repository is a crowdsourced collection of project ideas submitted by the community and that might require our amazing pool of contributors to work on.
 
 Checkout the [project ideas](https://github.com/Rust-Cameroon/open-space/issues) submitted by the community.
 
